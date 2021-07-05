@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimaryDark"
+    android:padding="15dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Enter Category Name"
+        android:fontFamily="@font/sf_pro_text"
+        android:textColor="@color/white"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:textAlignment="center"
+        />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="New Category"
+        android:textColor="@color/white"
+        android:fontFamily="@font/sf_pro_text"
+        android:textColorHint="#7C7B7B"
+        android:layout_marginTop="15dp"
+        android:textSize="22sp"
+        android:id="@+id/category_input"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp">
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorDelete"
+            android:text="Cancel"
+            android:fontFamily="@font/sf_pro_text"
+            android:background="@color/colorPrimaryDark"
+            android:textSize="18sp"
+            android:layout_weight="1"
+            android:id="@+id/btn_cancel"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorAccent"
+            android:fontFamily="@font/sf_pro_text"
+            android:background="@color/colorPrimaryDark"
+            android:text="create"
+            android:textSize="18sp"
+            android:layout_weight="1"
+            android:id="@+id/btn_create"/>
+
+    </LinearLayout>
+
+</LinearLayout>

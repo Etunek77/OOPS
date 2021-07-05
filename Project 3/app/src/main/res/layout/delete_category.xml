@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimaryDark"
+    android:padding="15dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Deleting the category will delete all the items inside it. Do you wish to continue?"
+        android:textSize="22sp"
+        android:fontFamily="@font/sf_pro_text"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:textAlignment="center"
+        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp">
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorDelete"
+            android:text="Cancel"
+            android:fontFamily="@font/sf_pro_text"
+            android:textSize="18sp"
+            android:background="@color/colorPrimaryDark"
+            android:layout_weight="1"
+            android:id="@+id/btn_cancel"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorAccent"
+            android:fontFamily="@font/sf_pro_text"
+            android:background="@color/colorPrimaryDark"
+            android:text="Confirm"
+            android:textSize="18sp"
+            android:layout_weight="1"
+            android:id="@+id/btn_confirm"/>
+    </LinearLayout>
+
+</LinearLayout>

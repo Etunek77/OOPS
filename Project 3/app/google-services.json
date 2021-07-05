@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "764752329560",
+    "firebase_url": "https://project-bitsbphc.firebaseio.com",
+    "project_id": "project-bitsbphc",
+    "storage_bucket": "project-bitsbphc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764752329560:android:414b694aced06f0b94c32d",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764752329560-p9afhqkimqdc6glk20f1i45tga60srv1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoetYx-hBijQrnbNm-0cBI34slP1i9nVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764752329560-fmv1797me1u72vtukbe3qndsd88d49mb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

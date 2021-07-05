@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorBackground"
+    android:textAlignment="center"
+    tools:context=".VerifyEmail">
+
+    <TextView
+        android:id="@+id/verifyemail"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="Verify your Email"
+        android:fontFamily="@font/sf_pro_text"
+        android:textColor="#FFB61E"
+        android:textAlignment="center"
+        android:textAllCaps="false"
+        android:textSize="40sp"
+        android:textStyle="normal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.138" />
+
+    <TextView
+        android:id="@+id/verifytext"
+        android:layout_width="370dp"
+        android:layout_height="194dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="16dp"
+        android:fontFamily="@font/sf_pro_text"
+        android:textColor="#CFC4BF"
+        android:text=" We've sent a verification link to your email address. Please click the link to complete the email verification."
+        android:textAlignment="center"
+        android:textSize="25sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.444"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/verifyemail"
+        app:layout_constraintVertical_bias="0.239" />
+
+    <Button
+        android:id="@+id/verifynext"
+        android:layout_width="133dp"
+        android:layout_height="56dp"
+        android:text="Next"
+        android:textSize="20sp"
+        android:textColor="#050608"
+        style="@style/AppTheme.RoundedCornerMaterialButton"
+        android:background="@drawable/rounded_shape"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/verifytext"
+        app:layout_constraintVertical_bias="0.263" />
+</androidx.constraintlayout.widget.ConstraintLayout>
