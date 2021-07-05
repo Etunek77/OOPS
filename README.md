@@ -92,14 +92,14 @@ ___
 
 ### Credits :
 
-**Stackoverflow
+** Stackoverflow
 
-**Firebase Docs
+** Firebase Docs
 
-**Youtube Tutorials
+** Youtube Tutorials
 
-**Pinterest
+** Pinterest
 
-**Github
+** Github
 
-**Developers Android 
+** Developers Android 
