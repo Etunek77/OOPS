@@ -1,7 +1,6 @@
-Track'n'Trigger
-T E A M 2 4
 
-Report Prepared by
+
+
 Min SDK version - 16
 Target SDK version - 30
 Android Gradle Plugin version 4. 1. 0
@@ -14,9 +13,8 @@ Material Design & State Of Art UI
 
 Secure Signup
 
-using Firebase
-Tools
-Features
+
+Features:
 Reliable and
 User Friendly
 Keep Track with
@@ -32,10 +30,10 @@ Contents
 
 02 Dashboard
 
-(^03) Reminder & Trigger
+03 Reminder & Trigger
 04 Diary & Notes
 05 App Design& Development
-(^06) Credits
+
 
 App Design
 FRONTEND : JAVA
@@ -66,30 +64,7 @@ through Gmail and WhatsApp.
 Creating customised dashboards
 with attractive colours.
 Notify through Gmail.
-UI Design, Frontend
-2019 A 7 PS 0145 H
 
-Swapnil Deshmukh
-
-Frontend, Backend
-2019 A 7 PS 0119 H
-
-Kentue Joseph
-
-Backend ,UI Design
-2019 A 7 PS 1337 H
-
-Rajavardhan Reddy
-
-Frontend, Testing
-2019 A 7 PS 0115 H
-
-Suchit Uppala
-
-T
-A
-E
-M
 Credits :
 Stackoverflow
 
