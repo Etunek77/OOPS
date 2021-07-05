@@ -25,7 +25,9 @@ Interactive Dashboard
 for easy Navigation
 Built to last with
 Google's power
+
 Contents
+
 01 Register & Login
 
 02 Dashboard
@@ -64,6 +66,22 @@ through Gmail and WhatsApp.
 Creating customised dashboards
 with attractive colours.
 Notify through Gmail.
+
+
+![](images/Intro.jpg)
+![](images/Logo%20Design.jpg)
+![](images/App%20Features.jpg)
+![](images/Contents.jpg)
+![](images/Login%20&%20Register.jpg)
+![](images/Verification%20&%20Reset%20Password.jpg)
+![](images/Login%20&%20Dashboard.jpg)
+![](images/Tracker.jpg)
+![](images/Sharing%20&%20Image%20Picker.jpg)
+![](images/Notes.jpg)
+![](images/Reminder.jpg)
+![](images/Reminder%20Trigger.jpg)
+![](images/App%20Design%20&%20Development.jpg)
+
 
 Credits :
 Stackoverflow
