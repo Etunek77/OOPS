@@ -2,11 +2,17 @@
 
 
 Min SDK version - 16
+
 Target SDK version - 30
+
 Android Gradle Plugin version 4. 1. 0
+
 Gradle Version 6. 5
+
 Compile SDK 30
+
 App was developed on Android Studio :
+
 One app for all your needs with
 
 Material Design & State Of Art UI
