@@ -21,10 +21,14 @@ Secure Signup
 
 
 Features:
+
 Reliable and
 User Friendly
+
 Keep Track with
+
 Push Notifications
+
 Reminder & Notes
 
 Interactive Dashboard
@@ -39,7 +43,9 @@ Contents
 02 Dashboard
 
 03 Reminder & Trigger
+
 04 Diary & Notes
+
 05 App Design& Development
 
 
@@ -69,8 +75,10 @@ WhatsApp.
 
 Sharing image along with text
 through Gmail and WhatsApp.
+
 Creating customised dashboards
 with attractive colours.
+
 Notify through Gmail.
 
 
